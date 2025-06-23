@@ -177,18 +177,10 @@ npm start
 - **DELETE:**  
   `https://jsonplaceholder.typicode.com/posts/1`
 
----
-
-## 📜 License
-
-MIT
-
----
-
 ## 👤 Author
 
-- [Your Name]
-- [Your Contact/LinkedIn/GitHub]
+- [Sarthak Garg]
+- [garsar07@gmail.com]
 
 ---
 
