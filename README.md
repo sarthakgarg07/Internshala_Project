@@ -4,6 +4,14 @@ A robust, modern REST client inspired by Postman, built with **React** (frontend
 
 ---
 
+## 🖼️ Example: Backend Logging and History
+
+Below is a screenshot showing the backend successfully logging requests and retrieving paginated history from the SQLite database:
+
+![Backend Logging and History](./screenshot/image.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Frontend:** React (Create React App)
@@ -30,6 +38,8 @@ A robust, modern REST client inspired by Postman, built with **React** (frontend
     /components
       RequestForm.js      # Form to send requests
       History.js          # Paginated request history
+/screenshot
+  image.png               # Example backend log screenshot
 ```
 
 ---
