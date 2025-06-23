@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build output
+client/build/
+
+# Environment files
+.env
+.env.*
+
+# SQLite database
+server/request-logs.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db 
